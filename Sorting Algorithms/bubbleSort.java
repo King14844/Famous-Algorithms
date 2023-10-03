@@ -1,4 +1,4 @@
-package sortingalg;
+
 import java.util.Scanner;
 
 public class bubbleSort {
