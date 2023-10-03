@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class bubbleSort {
+public class BubbleSort {
 
      static void bubbleSorting(int arr[]){
 
